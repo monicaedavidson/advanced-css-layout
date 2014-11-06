@@ -1,0 +1,41 @@
+*{
+  -moz-box-sizing:    border-box;   /* Firefox 1, probably can drop this */
+  -webkit-box-sizing: border-box;   /* Safari 3-4, also probably droppable */
+  box-sizing: border-box;   /* Everything else */
+}
+
+body {
+	display: flex;
+}
+
+header {
+	justify-content: space-between;
+}
+
+.dept{
+  justify-content: center;
+  flex-grow: 1;
+  width:100%;
+  text-align:center;
+  flex-basis: auto;
+ }
+
+ .dept__header{
+  text-align: center;
+  margin: 0 auto;
+  font-family: 'Open Sans Condensed', sans-serif;
+ }
+
+.col_1_of_3 {
+  width: 25.25%;
+}
+
+.col_1_of_4 {
+  width: 21%;
+}
+
+.feature {
+	justify-content: center;
+	flex-grow: 1;
+	align-content: space-around;
+}

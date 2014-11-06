@@ -1,0 +1,92 @@
+.deptOne{ 
+ background-color: SkyBlue;
+}
+
+.deptTwo{
+  background-color: LemonChiffon;
+}
+
+.deptThree{
+  background-color: MediumSeaGreen;
+}
+
+main {
+    background-color:MediumOrchid;
+}
+
+.main__header{
+  color: white;
+ }
+
+.intro{
+   color: white;
+}
+
+.deptOne__header{
+  color:white;
+  font-size:1.1em;
+ }
+
+.dept__header{
+  color: gray;
+ }
+ .deptOne__date{
+  color: white;
+  font-size: 1em;
+  line-height: 2em;
+}
+
+ .deptOne__info{
+  color:white;
+  line-height: 1em;
+ }
+
+ .deptTwo__header{
+  color:gray;
+  font-size:1.1em;
+ }
+
+ .deptTwo__info{
+  color:gray;
+  line-height: 1em;
+ }
+
+ .deptTwo__date{
+  color:gray;
+  font-size: 1em;
+  line-height: 2em;
+ }
+
+ .deptThree__header{
+  color:white;
+  font-size:1.1em;
+ }
+
+ .deptThree__date{
+  color:white;
+  font-size: 1em;
+  line-height: 2em;
+ }
+
+ .deptThree__info{
+  color:white;
+  line-height: 1em;
+ }
+
+ .dept__header{
+  text-transform: uppercase;
+  font-size: 1.25em;
+}
+
+ @font-face {
+  font-family: 'icomoon';
+  src:url('../fonts/icomoon.eot?-sifqju');
+  src:url('../fonts/icomoon.eot?#iefix-sifqju') format('embedded-opentype'),
+    url('../fonts/icomoon.woff?-sifqju') format('woff'),
+    url('../fonts/icomoon.ttf?-sifqju') format('truetype'),
+    url('../fonts/icomoon.svg?-sifqju#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+

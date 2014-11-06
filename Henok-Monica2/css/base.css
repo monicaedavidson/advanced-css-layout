@@ -1,0 +1,89 @@
+body{
+  font-size: 1em;
+}
+
+/* main intro */
+
+.main{
+  padding:5% 0;
+  text-align:center;
+}
+
+.main__header{
+  font-size: 5em;
+  width:100%;
+  font-family: "Amaranth", sans serif;
+}
+
+.intro{
+  font-size: 1em;
+  line-height: 1.5em;
+  width:600px;
+  margin:auto;
+}
+
+/* feature section */
+
+.feature{
+  text-align: center;
+  display: block;
+  width:100%;
+}
+
+.feature__title{
+  text-align: center;
+  margin:3% 0;
+  text-transform: uppercase;
+  font-size: 1.25em;
+  width:100%;
+  font-family: 'Open Sans Condensed', sans-serif;
+
+}
+
+.feature__header{
+  margin-top:3px;
+  line-height: 1.5em;
+}
+
+
+.feature__one{
+  display: inline-block;
+  padding:1%;
+}
+
+.feature__two{
+  display: inline-block;
+ padding:1%;
+}
+
+.feature__three{
+  height:450px;
+  display: inline-block;
+ padding:1%;
+}
+
+.feature__four{
+  height:450px;
+  display: inline-block;
+ padding:1%;
+}
+
+/* form section */
+
+.sign-up{
+  text-align: center;
+  display: block;
+  font-size: 1.25em;
+  cursor:pointer;
+  height:60px;
+  margin:10% 0;
+}
+
+.sign-up__field{
+  margin-top:20px;
+  width:275px;
+  height:35px;
+  padding:2px;
+}
+
+
