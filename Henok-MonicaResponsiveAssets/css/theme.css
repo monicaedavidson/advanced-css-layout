@@ -1,12 +1,12 @@
-.deptOne{ 
+.deptOne { 
  background-color: SkyBlue;
 }
 
-.deptTwo{
+.deptTwo {
   background-color: LemonChiffon;
 }
 
-.deptThree{
+.deptThree {
   background-color: MediumSeaGreen;
 }
 
@@ -14,66 +14,66 @@ main {
     background-color:MediumOrchid;
 }
 
-.main__header{
+.main__header {
   color: white;
  }
 
-.intro{
+.intro {
    color: white;
 }
 
-.deptOne__header{
+.deptOne__header {
   color:white;
   font-size:1.1em;
  }
 
-.dept__header{
+.dept__header {
   color: gray;
  }
- .deptOne__date{
+ .deptOne__date {
   color: white;
   font-size: 1em;
   line-height: 2em;
 }
 
- .deptOne__info{
+ .deptOne__info {
   color:white;
   line-height: 1em;
  }
 
- .deptTwo__header{
+ .deptTwo__header {
   color:gray;
   font-size:1.1em;
  }
 
- .deptTwo__info{
+ .deptTwo__info {
   color:gray;
   line-height: 1em;
  }
 
- .deptTwo__date{
+ .deptTwo__date {
   color:gray;
   font-size: 1em;
   line-height: 2em;
  }
 
- .deptThree__header{
+ .deptThree__header {
   color:white;
   font-size:1.1em;
  }
 
- .deptThree__date{
+ .deptThree__date {
   color:white;
   font-size: 1em;
   line-height: 2em;
  }
 
- .deptThree__info{
+ .deptThree__info {
   color:white;
   line-height: 1em;
  }
 
- .dept__header{
+ .dept__header {
   text-transform: uppercase;
   font-size: 1.25em;
 }
@@ -97,11 +97,9 @@ main {
   font-variant: normal;
   text-transform: none;
   line-height: 1;
-
   /* Better Font Rendering =========== */
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-
 }
 
 button {
@@ -113,4 +111,3 @@ button {
   content: "\e75f";
   height: 10px;
 }
-
